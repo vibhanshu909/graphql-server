@@ -1,0 +1,22 @@
+{
+  "name": "graphql-server",
+  "version": "0.0.1",
+  "description": "Add GraphQL Server to Svelte kit application",
+  "main": "n/a",
+  "private": false,
+  "keywords": [
+    "kit",
+    "svelte",
+    "graphql",
+    "apollo",
+    "server"
+  ],
+  "author": "vibhanshu pandey",
+  "license": "MIT",
+  "dependencies": {
+    "apply": "^0.2.16"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.0"
+  }
+}
